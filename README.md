@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **text classification**.
 
-- 🌱 Learning new **NLP techniques**.
+- 🌱 Learning more on **GenAI**.
 
 - 👯 I’m looking to collaborate on **data science projects**.
 
